@@ -1,0 +1,6 @@
+{
+  "name": "Darpan — Web3 Civic Complaint & Transparency Platform",
+  "description": "Decentralized civic complaint registry, immutable tracking, DigiLocker verification, and municipal transparency powered by Web3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
